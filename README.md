@@ -11,7 +11,7 @@ Estas son mis habilidades principales, organizadas en áreas clave:
 | 🐍 Backend Development | ☁️ Cloud & DevOps | 🧠 Inteligencia Artificial | 🛠️ Herramientas & Metodologías |
 |------------------------|--------------------|----------------------------|--------------------------------|
 | ✅ Python               | ✅ AWS Lambda       | ✅ Integración APIs OpenAI  | ✅ Git & GitHub                 |
-| ✅ FastAPI              | ✅ Redis ElastiCache| ✅ Diseño de agentes de IA  | ✅ YAML (configuración)         |
+| ✅ Laravel              | ✅ Redis ElastiCache| ✅ Diseño de agentes de IA  | ✅ YAML (configuración)         |
 | ✅ API RESTful          | ✅ MySQL RDS        | ✅ NLP (Procesamiento lenguaje)| ✅ Desarrollo ágil              |
 | ✅ Microservicios       | ✅ Configuración VPC| ✅ Automatización con IA    | ✅ CI/CD                        |
 | ✅ Arquitectura software| ✅ Despliegue automático | ✅ Sistemas conversacionales| ✅ Documentación técnica        |
