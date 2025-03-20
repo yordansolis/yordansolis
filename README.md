@@ -1,6 +1,6 @@
 # 👋 Hola, Soy Jhordan Solis
 
-Soy un desarrollador Backend apasionado por construir soluciones tecnológicas eficientes y escalables. Especializado en Python, FastAPI, Inteligencia Artificial y AWS, me enfoco en crear sistemas inteligentes y automatizados que resuelvan problemas reales.
+Soy un desarrollador Backend apasionado por construir soluciones tecnológicas eficientes y escalables. Especializado en Python, FastAPI,PHP, Latavel, Inteligencia Artificial y AWS, me enfoco en crear sistemas inteligentes y automatizados que resuelvan problemas reales.
 
 ---
 
