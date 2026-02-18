@@ -32,13 +32,14 @@ I design and ship backend systems that are clean, scalable, and maintainable. My
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=jhordansolis&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Jhordan's GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=yordansolis&show_icons=true&theme=github_dark&hide_border=true" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhordansolis&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
+      <img src="https://streak-stats.demolab.com?user=yordansolis&theme=github-dark&hide_border=true" />
     </td>
   </tr>
 </table>
+
 
 ---
 
