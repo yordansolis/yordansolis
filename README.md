@@ -44,7 +44,7 @@ I design and ship backend systems that are clean, scalable, and maintainable. My
 
 ### Featured Project
 
-**[Inventory API V2](https://github.com/jhordansolis/inventary-api-v2)** — Async FastAPI inventory management system built for a real POS use case. Multi-tenant architecture with row-level data isolation, 6 development phases shipped (auth, products, sales, cash management, analytics, multitenancy), 77 REST endpoints, JWT authentication with role-based access control, and PostgreSQL async via asyncpg. Deployed to both AWS Lambda (SAM) and Render.
+**[Inventory API V2](https://frontend-inventar.pages.dev/)** — Async FastAPI inventory management system built for a real POS use case. Multi-tenant architecture with row-level data isolation, 6 development phases shipped (auth, products, sales, cash management, analytics, multitenancy), 77 REST endpoints, JWT authentication with role-based access control, and PostgreSQL async via asyncpg. Deployed to both AWS Lambda (SAM) and Render.
 
 `FastAPI` `SQLAlchemy (async)` `PostgreSQL` `AWS Lambda` `Docker` `Alembic` `pytest`
 
