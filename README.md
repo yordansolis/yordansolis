@@ -31,8 +31,8 @@ I design and ship backend systems that are clean, scalable, and maintainable. My
 
 <table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=yordansolis&show_icons=true&theme=github_dark&hide_border=true" />
+  <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yordansolis&theme=github_dark" />
     </td>
     <td>
       <img src="https://streak-stats.demolab.com?user=yordansolis&theme=github-dark&hide_border=true" />
